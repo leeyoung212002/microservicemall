@@ -1,0 +1,4 @@
+auth:
+  accessTokenTimeout: 300
+  refreshTokenTimeout: 3600
+  nonceTimeout: 300
