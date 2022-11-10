@@ -1,5 +1,5 @@
 auth:
   accessTokenTimeout: 300
   refreshTokenTimeout: 2400
-  nonceTimeout: 300
+  nonceTimeout: 400
   innerAppIds: BnBmvjIG
